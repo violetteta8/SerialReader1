@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SerialReader", "SerialReader.pyproj", "{E0EF940E-21B0-4F29-B6DD-9E8A24E4BBA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0EF940E-21B0-4F29-B6DD-9E8A24E4BBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EF940E-21B0-4F29-B6DD-9E8A24E4BBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6D623B4-D2A0-4218-9209-83AC11D0D9DD}
+	EndGlobalSection
+EndGlobal
